@@ -34,11 +34,14 @@ psql -U postgres
 ![check Table Exist](img/4.png)
 
 6. Testing client application
+
 ![Client application](img/5.png)
 
-##Ultimate Hierrachy
-├── client
-├── server
-├── img
-├── Readme.md
-└── docker-compose.yml
+
+## Ultimate Hierrachy
+
+├── client<br>
+├── server<br>
+├── img<br>
+├── Readme.md<br>
+└── docker-compose.yml<br>
