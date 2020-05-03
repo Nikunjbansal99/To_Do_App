@@ -1,6 +1,7 @@
 ## To Do App
-It creates the to do list.
-*I Created this multi-container application which has a client (React), a server (Node.js)and a database instance (Postgres).*
+It creates the to do list.<br>
+*I Created this multi-container application which has a client (React), a server (Node.js)and a database instance (Postgres).*<br>
+This project is created for Docker Training under IIEC_Connect(An Initiative by Vimal Daga Sir)
 
 ## How To Run
 1. To get the containers up and running
@@ -37,7 +38,6 @@ psql -U postgres
 
 ![Client application](img/5.png)
 
-
 ## Ultimate Hierrachy
 
 ├── client<br>
@@ -45,3 +45,5 @@ psql -U postgres
 ├── img<br>
 ├── Readme.md<br>
 └── docker-compose.yml<br>
+
+Atlast, I thank Vimal Daga Sir for their directions and motivation.
